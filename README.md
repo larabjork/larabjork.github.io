@@ -14,3 +14,11 @@ I've always been a subject matter generalist, and that's put me in a good positi
 
 When I'm not deep in data, you can find me walking in my neighborhood taking pictures, knitting yarn that I inherited from my grandmothers, and baking bread and cookies.
 
+# Project Work: ETL for East African Entrepreneurs
+In February 2023, I undertook a short-term contract with [Inkomoko](https://www.inkomoko.com/)(approximate pronunciation: "in-HO-mo-ko"), which provides impact investing and business advice to entrepreneurs in East Africa.
+
+## Scope of Work
+
+## Challenges and Solutions
+
+## Results
