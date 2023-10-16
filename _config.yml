@@ -2,5 +2,5 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: Lara Bjork ![A woman with curly brown hair is smiling at the camera](/assets/lara_headshot.jpg)
+title: Lara Bjork 
 description: Data-driven communicator for the nonprofit and public sectors, with extensive experience in visualizing data and a track record of meeting deadlines and improving processes.

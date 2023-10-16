@@ -1,3 +1,5 @@
+![A woman with curly brown hair is smiling at the camera](/assets/lara_headshot.jpg)
+
 # From Data User to Data Analyst
 I'm a former grant writer who has always been interested in how to reliably track nonprofit organizations' impact. A running theme in my grant-seeking life: Longing to be able to look up the latest stats on our performance, with reports available at the click of a button.
 
@@ -15,7 +17,7 @@ In February 2023, I undertook a short-term contract with [Inkomoko](https://www.
 ## Scope of Work
 *Goal:* Executive leadership needed an accurate, up-to-date dashboard  of the organization's impact over time. Work was already underway on a Power BI dashboard.
 
-* My Initial Task:* Many of the formulas to present organizational impact metrics had already been developed. My task(or so I thought) was to finish up the remaining formulas and create associated visualizations.
+*My Initial Task:* Many of the formulas to present organizational impact metrics had already been developed. My task(or so I thought) was to finish up the remaining formulas and create associated visualizations.
 
 ## Challenge: Tangled Data Model
 Inkomoko conducts baseline and endline surveys with a sample of its clients in each location. Data flowed from the survey tool (Kobo Toolbox) to a MySQL database and then to Power BI.
