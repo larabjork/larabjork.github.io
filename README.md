@@ -1,7 +1,7 @@
 # About Me
 
 ## TL;DR
-Data-driven communicator for the nonprofit and public sectors, with extensive experience in visualizing data and a track record of meeting deadlines and improving processes.
+
 
 ## From Data User to Data Analyst
 I'm a former grant writer who has always been interested in how to reliably track nonprofit organizations' impact. A running theme in my grant-seeking life: Longing to be able to look up the latest stats on our performance, with reports available at the click of a button.

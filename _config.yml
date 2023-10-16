@@ -2,4 +2,5 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 
-title: Lara Bjork | Data Analyst
+title: Lara Bjork 
+description: Data-driven communicator for the nonprofit and public sectors, with extensive experience in visualizing data and a track record of meeting deadlines and improving processes.
